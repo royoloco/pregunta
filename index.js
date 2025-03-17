@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Yo dispuesto para ti')
+    alert("Yo dispuesto para ti")
 });
 
 const noBtn = document.querySelector('#noBtn');
